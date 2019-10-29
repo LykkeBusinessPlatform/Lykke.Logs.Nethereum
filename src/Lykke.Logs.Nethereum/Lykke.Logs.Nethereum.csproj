@@ -11,8 +11,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageIconUrl>https://avatars3.githubusercontent.com/u/14153330?v=3&amp;amp;s=200</PackageIconUrl>
     <PackageTags>LykkeBusiness</PackageTags>
-    <AssemblyVersion>1.0.0.1</AssemblyVersion>
-    <FileVersion>1.0.0.1</FileVersion>
+    <PackageId>LykkeBiz.Logs.Nethereum</PackageId>
   </PropertyGroup>
   
   <ItemGroup>
