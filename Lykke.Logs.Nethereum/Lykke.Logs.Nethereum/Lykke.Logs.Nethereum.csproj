@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Common.Logging" Version="3.4.1" />
+      <PackageReference Include="Lykke.Common" Version="7.5.0" />
+    </ItemGroup>
+
+</Project>
