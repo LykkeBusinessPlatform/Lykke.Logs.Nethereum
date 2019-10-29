@@ -1,12 +1,23 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
-    <PropertyGroup>
-        <TargetFramework>netstandard2.0</TargetFramework>
-    </PropertyGroup>
-
-    <ItemGroup>
-      <PackageReference Include="Common.Logging" Version="3.4.1" />
-      <PackageReference Include="Lykke.Common" Version="7.5.0" />
-    </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Product>Lykke.Logs.Nethereum</Product>
+    <Company>Lykke Business</Company>
+    <Authors>Lykke Business</Authors>
+    <Version>1.0.1</Version>
+    <Description>Lykke log for nethereum web3 interface</Description>
+    <PackageProjectUrl>https://github.com/LykkeBusinessPlatform/Lykke.Logs.Nethereum</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/LykkeBusinessPlatform/Lykke.Logs.Nethereum</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageIconUrl>https://avatars3.githubusercontent.com/u/14153330?v=3&amp;amp;s=200</PackageIconUrl>
+    <PackageTags>LykkeBusiness</PackageTags>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Common.Logging" Version="3.4.1" />
+    <PackageReference Include="Lykke.Common" Version="7.5.0" />
+  </ItemGroup>
 
 </Project>
