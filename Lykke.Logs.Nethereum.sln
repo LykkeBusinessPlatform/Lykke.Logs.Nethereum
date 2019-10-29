@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lykke.Logs.Nethereum", "Lykke.Logs.Nethereum\Lykke.Logs.Nethereum.csproj", "{52FD362E-9247-4E9D-9AF0-AF7940A4D4E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lykke.Logs.Nethereum", "src\Lykke.Logs.Nethereum\Lykke.Logs.Nethereum.csproj", "{52FD362E-9247-4E9D-9AF0-AF7940A4D4E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
