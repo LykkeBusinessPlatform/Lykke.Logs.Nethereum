@@ -22,6 +22,8 @@ namespace Lykke.Logs.Nethereum
         protected override void WriteInternal(LogLevel level, object message, Exception exception)
         {
             var textMessage = message?.ToString();
+            if (textMessage == null && exception == null)
+                textMessage = string.Empty;
             
             switch (level)
             {
